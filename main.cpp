@@ -19,5 +19,6 @@ int main()
 
     std::cout << "compiled: " << compiled << '\n';
     std::cout << "linked: " << linked << std::endl;
+    std::clog << "I`m okay lumenausf" << std::endl;
     return 0;
 }
